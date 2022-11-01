@@ -1,0 +1,14 @@
+C:\apps\avaliacoes\rdi\RDI-API\Domain\bin\Release\net6.0\Domain.deps.json
+C:\apps\avaliacoes\rdi\RDI-API\Domain\bin\Release\net6.0\Domain.runtimeconfig.json
+C:\apps\avaliacoes\rdi\RDI-API\Domain\bin\Release\net6.0\Domain.dll
+C:\apps\avaliacoes\rdi\RDI-API\Domain\bin\Release\net6.0\Domain.pdb
+C:\apps\avaliacoes\rdi\RDI-API\Domain\obj\Release\net6.0\Domain.csproj.AssemblyReference.cache
+C:\apps\avaliacoes\rdi\RDI-API\Domain\obj\Release\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\apps\avaliacoes\rdi\RDI-API\Domain\obj\Release\net6.0\Domain.AssemblyInfoInputs.cache
+C:\apps\avaliacoes\rdi\RDI-API\Domain\obj\Release\net6.0\Domain.AssemblyInfo.cs
+C:\apps\avaliacoes\rdi\RDI-API\Domain\obj\Release\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\apps\avaliacoes\rdi\RDI-API\Domain\obj\Release\net6.0\Domain.dll
+C:\apps\avaliacoes\rdi\RDI-API\Domain\obj\Release\net6.0\refint\Domain.dll
+C:\apps\avaliacoes\rdi\RDI-API\Domain\obj\Release\net6.0\Domain.pdb
+C:\apps\avaliacoes\rdi\RDI-API\Domain\obj\Release\net6.0\Domain.genruntimeconfig.cache
+C:\apps\avaliacoes\rdi\RDI-API\Domain\obj\Release\net6.0\ref\Domain.dll
